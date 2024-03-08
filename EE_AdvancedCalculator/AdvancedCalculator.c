@@ -14,10 +14,8 @@ calculations, logarithmic functions, and more.
 
 Team Arrangment:
 
-Soroush Haghighi
-Moein Jaffaraghaei
-Nima Asadi
-Hossein Hosseinzadeh
+Mahan Zavvari
+Navid Mahdavi
 
 
 Deliverables:
